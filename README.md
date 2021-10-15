@@ -2,8 +2,17 @@
 
 ## Purpose:
 
-- To build a unified tabular + text classification module under the new version of fastai (at this point fastai : 2.5.2
-fastcore : 1.3.26)
+- To build a tabular + text classification module under the most updated version of fastai (at this point fastai : 2.5.2
+fastcore : 1.3.26), aiming to be
+  - easy to use (e.g. fastai API)
+  - efficent
+  - stable and ready for production
+
+- to extend to regression
+
+- To extend to tabular + text + vision
+
+
 
 ## Credits & References:
 
