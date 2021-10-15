@@ -12,7 +12,9 @@ fastcore : 1.3.26), aiming to be
 
 - To extend to tabular + text + vision
 
+## Wanna contribute?
 
+Check out this notebook [here](https://github.com/wjlgatech/fastai-multimodal/blob/main/fastai2_multimodal_tabtxt_public.ipynb). Any advices and comments are welcomed. Please shot me an email [here](wjlgatech@gmail.com).
 
 ## Credits & References:
 
