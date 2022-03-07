@@ -21,3 +21,11 @@ Check out this notebook [here](https://github.com/wjlgatech/fastai-multimodal/bl
 - Zachary Mueller's initiatives https://forums.fast.ai/t/combining-tabular-images-in-fastai2-and-should-work-with-almost-any-other-type/73197
 
 - Morgan McGuire's notebook on **Gradient Blending for Multimodal Model**: https://forums.fast.ai/t/gradient-blending-for-multi-modal-models-in-progress/75645/11
+
+- Yuan Tian's Tabular+image: https://github.com/naity/image_tabular
+
+- John Wu's https://gist.github.com/jwuphysics/f19162d38e1b4fed0030b96411186c3a
+
+- AWS autogluon multimodal benchmark data: https://auto.gluon.ai/stable/tutorials/tabular_prediction/tabular-multimodal.html
+
+- automl multimodal benchmark https://github.com/sxjscience/automl_multimodal_benchmark
